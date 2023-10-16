@@ -1,9 +1,9 @@
-# Test Project 1
+# 09.02-challenge
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-This is the test of my code that was written
+README generator
 
 ## Table of Contents 
 
@@ -29,14 +29,14 @@ npm i
 
 ## Usage
 
-everything is sensitive so don't touch 
+This repo can be used to generate README files in  any repository
 
  ## License
     This project is licensed under the MIT license.
   
 ## Contributing
 
-   please push all updated s
+just make sure to commmitit  all changes before 10 pm
 
 ## Tests
 
