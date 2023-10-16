@@ -1,52 +1,54 @@
-# 09.02-challenge
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-
 ## Description
 
-README generator
+This project is a README generator
 
-## Table of Contents 
+## Code Source
 
-* [Installation](#installation)
+[source-code] (09-Week_NodeJS\02-Challenge)
 
-* [Usage](#usage)
+# Page Link
 
-* [License](#license)
+N/A
 
-* [Contributing](#contributing)
+# View
 
-* [Tests](#tests)
+N/A see link in submission
 
-* [Questions](#questions)
-
-## Installation
-
-To install necessary dependencies, run the following command:
-
-```
-npm i
-```
 
 ## Usage
 
-This repo can be used to generate README files in  any repository
+Used as a tool to create professional README files for a repository
+## License
 
- ## License
-    This project is licensed under the MIT license.
-  
-## Contributing
+MIT License
 
-just make sure to commmitit  all changes before 10 pm
+Copyright (c) [2023] [Tyler J. Stubbs]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISINqG FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+## Features
+
+-inputs for information creating your README
+-function that applies inputs to README file
+
 
 ## Tests
 
-To run tests, run the following command:
-
-```
-npm test
-```
-
-## Questions
-
-If you have any questions about the repo, open an issue or contact me directly at tyrush1911@outlook.com. You can find more of my work at [zxncho](https://github.com/zxncho/).
-
+The main test was to run the code using node.js and from there make sure that the README file was being filled out correctly.
